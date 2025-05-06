@@ -1,6 +1,6 @@
 # tarea8-tutoria
 
-##💥 Parte 1: Mi reacción frente al conflicto
+## 💥 Parte 1: Mi reacción frente al conflicto
 
 Reflexiona brevemente sobre:
 
@@ -13,7 +13,7 @@ Reflexiona brevemente sobre:
 🌈 ¿Qué persona admiro por cómo resuelve conflictos y por qué?
 
 
-##🛠️ Parte 2: Estrategia personal de resolución
+## 🛠️ Parte 2: Estrategia personal de resolución
 
 Crea un pequeño esquema con:
 
